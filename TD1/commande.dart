@@ -1,4 +1,3 @@
-import 'Produit.dart';
 class Commande {
   int id;
   Map<Produit, int> produits = {}; //produit et quantite
