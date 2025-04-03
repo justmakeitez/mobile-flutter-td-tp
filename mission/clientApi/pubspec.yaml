@@ -1,0 +1,10 @@
+name: prodCommande  # ← Conserver ce nom pour la cohérence
+description: Gestion d'un système de commandes en Dart
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  http: ^1.3.0

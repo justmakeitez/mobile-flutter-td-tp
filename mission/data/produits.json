@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nom": "Clavier",
+    "prix": 200,
+    "stock": 10,
+    "categorie": "Accessoires"
+  },
+  {
+    "id": 2,
+    "nom": "Souris",
+    "prix": 100,
+    "stock": 15,
+    "categorie": "Accessoires"
+  },
+  null,
+  {
+    "nom": "Clavier",
+    "prix": 200,
+    "stock": 10,
+    "categorie": "Accessories"
+  },
+  {
+    "nom": "écran",
+    "prix": 300,
+    "stock": 10,
+    "categorie": "Accessories"
+  }
+]
